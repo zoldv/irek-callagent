@@ -12,7 +12,7 @@
   "dependencies": {
     "config": "^3.3.6",
     "express": "^4.17.1",
-    "express-fileupload": "^1.2.1",
+    "express-fileupload": "^1.4.0",
     "express-useragent": "^1.0.15",
     "transliteration": "^2.2.0"
   }
